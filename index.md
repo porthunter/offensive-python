@@ -2,5 +2,5 @@
 [Posts](../blob/master/LICENSE) | [Scripts](../blob/master/LICENSE) | [About](../blob/master/LICENSE)
 
 ~~~~{.python}
-# python = "awesome"
+print "python is awesome for pwning"
 ~~~~
