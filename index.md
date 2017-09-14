@@ -1,8 +1,5 @@
 ## Welcome to Offensive Python
-
-### Menu
-[Posts](../blob/master/LICENSE)
-[Scripts](../blob/master/LICENSE)
+[Posts](../blob/master/LICENSE) | [Scripts](../blob/master/LICENSE)
 
 ### About
 
