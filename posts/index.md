@@ -1,4 +1,4 @@
-## Welcome to Offensive Python
+## Offensive Python Posts
 [Posts](posts/index.md) | [Scripts](scripts/index.md) | [About](about.md)
 
 ~~~~{.python}
